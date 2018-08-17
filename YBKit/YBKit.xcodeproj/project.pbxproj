@@ -250,7 +250,6 @@
 			isa = PBXGroup;
 			children = (
 				EA9B508E207B43270083F5FD /* Class */,
-				EA21F4DD207B1CED008A67AB /* YBKit.h */,
 				EA21F4DE207B1CED008A67AB /* Info.plist */,
 			);
 			path = YBKit;
@@ -540,6 +539,7 @@
 		EA9B508E207B43270083F5FD /* Class */ = {
 			isa = PBXGroup;
 			children = (
+				EA21F4DD207B1CED008A67AB /* YBKit.h */,
 				EA86D780208833BC0011D2BA /* Tools */,
 				EA86D77F208832CB0011D2BA /* UIViewController */,
 				EA86D77E208832C00011D2BA /* UIView */,
@@ -629,8 +629,8 @@
 				EA7E4D0C2080BE7E0079C81D /* NSURL+YBKit.h in Headers */,
 				EA7E4CF72080BE7E0079C81D /* NSArray+YBKit.h in Headers */,
 				EA9B50DB207B43270083F5FD /* UIView+YBKit.h in Headers */,
-				EA9B50D1207B43270083F5FD /* UIImage+YBKit.h in Headers */,
 				EA21F4DF207B1CED008A67AB /* YBKit.h in Headers */,
+				EA9B50D1207B43270083F5FD /* UIImage+YBKit.h in Headers */,
 				EA9B50C7207B43270083F5FD /* NSObject+YBKit.h in Headers */,
 				EA9B50EE207B43270083F5FD /* YBUtils.h in Headers */,
 			);
